@@ -1,0 +1,14 @@
+//this is a c++ program for Taking input From user And Print that Input
+
+#include<iostream>
+using namespace std;
+int main()
+
+{      
+        int a;
+        cout<<"enter no:";
+        cin>>a;
+       cout<<a<<ends<<"hello world";
+       return 0;
+
+}
