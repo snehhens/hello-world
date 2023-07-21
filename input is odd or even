@@ -24,3 +24,35 @@ int main() {
     // Return 0 to indicate successful program execution
     return 0;
 }
+
+
+
+//find input is odd or even using User-Define Function
+
+/*#include <iostream>
+using namespace std;
+
+//function declaration
+// UDF to check if a number is odd or even
+void checkOddEven(int number) {
+    if (number % 2 == 0) {
+        cout << number << " is even." << endl;
+    } else {
+        cout << number << " is odd." << endl;
+    }
+}
+
+int main() {
+    int num;
+
+    // Ask the user to enter a number
+    cout << "Hey there! I'm Guy Sneh.\n";
+    cout << "Please enter a number: ";
+    cin >> num;
+
+    //function calling
+    // Call the UDF to check if the number is odd or even
+    checkOddEven(num);
+
+    return 0;
+}*/
