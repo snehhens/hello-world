@@ -19,6 +19,7 @@ int main() {
     std::cin>>num2;
 
     // Calculate the sum of the two numbers
+    // using operators *,/,- instade of + 
     sum = num1 + num2;
 
     // display the result
