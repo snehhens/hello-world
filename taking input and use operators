@@ -1,4 +1,5 @@
 //c++ Program for taking input from user and add two numbers and display them 
+//by declaring pie=3.14 and taking radius input from user and using pie*r*r you can find area of circle
 
 /*#include <iostream> // Include Header File
 
