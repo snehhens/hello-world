@@ -1,7 +1,7 @@
 //this is a c++ program To print Hello World
 
 #include<iostream>
-using namespace std;
+using namespace std; //std is a namespace that stands for the Standard Library.
 int main()
 
 {      
