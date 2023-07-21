@@ -10,3 +10,18 @@ int main()
        return 0;
 
 }
+
+/*#include <iostream>
+using namespace std;
+
+// User-defined function to print "Hello, world!"
+void printHelloWorld() {
+    cout << "Hello, world!" << endl;
+}
+
+int main() {
+    // Calling the user-defined function to print "Hello, world!"
+    printHelloWorld();
+
+    return 0;
+}*/
